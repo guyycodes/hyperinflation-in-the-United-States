@@ -115,6 +115,7 @@ Copyright © 2025 Guy Morgan Beals. All rights reserved.
 - Instagram: [guycodes](https://www.instagram.com/guycodesio)
 - Twitter: [@GuyCodesio](https://x.com/GuyCodesio)
 - GitHub: [@guyycodes](https://github.com/guyycodes)
+- Medium: [@guyycodes](https://medium.com/@guyycodes)
 
 ## 🔗 Related Projects
 
