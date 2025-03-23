@@ -112,7 +112,7 @@ Copyright © 2025 Guy Morgan Beals. All rights reserved.
 **Guy Morgan Beals**
 
 - LinkedIn: [guymorganb](https://www.linkedin.com/in/guymorganb/)
-- Instagram: [guycodes](https://www.instagram.com/guycodes)
+- Instagram: [guycodes](https://www.instagram.com/guyycodes)
 - Twitter: [@GuyCodesio](https://x.com/GuyCodesio)
 - GitHub: [@guyycodes](https://github.com/guyycodes)
 
