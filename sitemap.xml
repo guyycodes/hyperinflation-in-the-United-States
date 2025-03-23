@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
+        http://www.google.com/schemas/sitemap-news/0.9
+        http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd">
+
+  <!-- Main Page -->
+  <url>
+    <loc>https://guyycodes.github.io/hyperinflation-in-the-United-States/</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Guy Morgan Beals Economics</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-03-23</news:publication_date>
+      <news:title>U.S. Hyperinflation Risk Analysis 2025: Expert Research &amp; Economic Forecast</news:title>
+      <news:keywords>hyperinflation, U.S. economy, inflation risk, Federal Reserve, monetary policy</news:keywords>
+    </news:news>
+    <image:image>
+      <image:loc>https://imgur.com/9cvyHrQ.png</image:loc>
+      <image:title>U.S. Hyperinflation Risk Analysis</image:title>
+      <image:caption>Analysis of potential U.S. hyperinflation risk compared to historical cases</image:caption>
+    </image:image>
+  </url>
+
+  <!-- GitHub Profile -->
+  <url>
+    <loc>https://github.com/guyycodes</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Repository -->
+  <url>
+    <loc>https://github.com/guyycodes/hyperinflation-in-the-United-States</loc>
+    <lastmod>2025-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset> 

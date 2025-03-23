@@ -1,0 +1,30 @@
+# robots.txt for U.S. Hyperinflation Risk Analysis Site
+User-agent: *
+Allow: /
+
+# Allow all search engines to access CSS, JS, and image files
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# Sitemap location
+Sitemap: https://guyycodes.github.io/hyperinflation-in-the-United-States/sitemap.xml
+
+# Crawl delay for heavy bots
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+# No crawl for specific utility files
+Disallow: /assets/util/
+Disallow: /.git/ 
